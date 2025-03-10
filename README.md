@@ -47,6 +47,7 @@ lan-share-app/
 
     ```sh
     git clone <repository-url>
+    
     cd lan-share-app
     ```
 
